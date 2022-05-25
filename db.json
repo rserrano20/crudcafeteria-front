@@ -1,0 +1,22 @@
+{
+  "cafeteria": [
+    {
+      "nombreProducto": "submarino",
+      "precioProducto": "100",
+      "categoria": "bebida-caliente",
+      "id": 2
+    },
+    {
+      "nombreProducto": "facturas con dulce de leche",
+      "precioProducto": "130",
+      "categoria": "dulce",
+      "id": 4
+    },
+    {
+      "nombreProducto": "sacramentos ",
+      "precioProducto": "130",
+      "categoria": "dulce",
+      "id": 5
+    }
+  ]
+}
